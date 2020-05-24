@@ -1,0 +1,9 @@
+.tickers {
+  list-style-type: none;
+  padding: 3;
+  display: inline-flex;
+}
+
+.footer {
+  font-weight: bold;
+}

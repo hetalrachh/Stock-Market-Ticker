@@ -1,0 +1,31 @@
+.stock {
+  margin: 20px;
+  min-width: 15rem;
+  margin: 1rem;
+}
+
+.stock p {
+  color: #333333;
+}
+
+.stock-name {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #333333;
+}
+
+.stock-symbol {
+  font-size: 1.25rem;
+}
+
+.tatamotors {
+  background-color: #ff66ff;
+}
+
+.cipla {
+  background-color: #c2c9ff;
+}
+
+.asianpaints {
+  background-color: #80ffcc;
+}
