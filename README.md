@@ -11,7 +11,7 @@ The code consists of two applications,
 
 1. Start the ActiveMQ from the installation path e.g. C:\Software\apache-activemq-5.15.12-bin\apache-activemq-5.15.12\bin using the command "activemq start".
 
-2. Build the spring application "stock-market-ticker" locally and run using commands "mvn clean install" and "mvn tomcat7:run".
+2. Build the spring application "stock-market-ticker" locally and run using commands "mvn clean install" and "mvn tomcat7:run" in the project directory.
 
 3. Start the ReactJS UI application using command "npm start" in the project directory.
 
