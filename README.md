@@ -15,7 +15,10 @@ The code consists of two applications,
 
 3. Start the ReactJS UI application using command "npm start" in the project directory.
 
-Run the ReactJS application locally on localhost:3000.
+Some important notes-
+
+1. The ActiveMQ web console can be accessed on localhost:8161/admin.
+2. Run the ReactJS application locally on localhost:3000.
 
 
 **Demo image:**
