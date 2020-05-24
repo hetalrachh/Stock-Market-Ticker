@@ -16,3 +16,8 @@ The code consists of two applications,
 3. Start the ReactJS UI application using command "npm start" in the project directory.
 
 Run the ReactJS application locally on localhost:3000.
+
+
+**Demo image:**
+
+![](/stock-price-ticker/demo/stick-price-ticker.PNG)
